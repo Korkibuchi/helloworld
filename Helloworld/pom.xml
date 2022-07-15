@@ -22,7 +22,7 @@
           <manifest>
             <addClasspath>true</addClasspath>
             <classpathPrefix>lib/</classpathPrefix>
-            <mainClass>spec.helloworld.Helloworld.java</mainClass>
+            <mainClass>spec.helloworld.Helloworld</mainClass>
           </manifest>
         </archive>
       </configuration>
